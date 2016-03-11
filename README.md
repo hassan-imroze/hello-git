@@ -1,2 +1,2 @@
-# hello-git
-First Git Project
+hello-git
+My First Git Project
